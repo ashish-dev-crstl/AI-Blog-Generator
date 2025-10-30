@@ -1,0 +1,5 @@
+{
+  "name": "AI SEO Blog Post Generator",
+  "description": "An application that uses Gemini to generate a complete, SEO-optimized blog post, including meta tags and Open Graph data, based on a user's topic and keywords.",
+  "requestFramePermissions": []
+}
